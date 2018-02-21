@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlLib.ActionCollection">
+    <rootMovements>
+      <Item>ZeroRootXZ</Item>
+    </rootMovements>
+    <other>
+      <Item>
+        <Type>Other</Type>
+        <Bvhfile>82_05</Bvhfile>
+        <WorldMX> -4.371139E-08 0 1 0 0 1 0 0 -1 0 -4.371139E-08 0 0 0 0 1</WorldMX>
+        <Name>sitting</Name>
+        <StartFrame>0</StartFrame>
+        <EndFrame>2246</EndFrame>
+        <IsCyclic>false</IsCyclic>
+        <FramesPerLoop>2</FramesPerLoop>
+        <Skills>
+        </Skills>
+      </Item>
+    </other>
+    <defense></defense>
+    <damaged></damaged>
+    <attack></attack>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlLib.ActionCollection">
+    <rootMovements>
+      <Item>ZeroRootXZ</Item></rootMovements>
+    <other></other>
+    <defense></defense>
+    <damaged></damaged>
+    <attack>
+      <Item>
+        <Type>Attack</Type>
+        <Bvhfile>02_05</Bvhfile>
+        <WorldMX> 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</WorldMX>
+        <Name>punch1</Name>
+        <StartFrame>803</StartFrame>
+        <EndFrame>932</EndFrame>
+        <IsCyclic>false</IsCyclic>
+        <FramesPerLoop>5</FramesPerLoop>
+        <Skills>
+        </Skills>
+        <attackDrcs>
+          <Item>
+            <Key>850</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>851</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>852</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>853</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>854</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>855</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>856</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>857</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>858</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>859</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>860</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>861</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>862</Key>
+            <Value>-0.03254799 0.2149753 0.976077</Value>
+          </Item>
+          <Item>
+            <Key>863</Key>
+            <Value>-4.454835E-08 0.08323669 0.9965298</Value>
+          </Item>
+          <Item>
+            <Key>864</Key>
+            <Value>-4.454835E-08 0.08323669 0.9965298</Value>
+          </Item>
+        </attackDrcs>
+        <collisionBones>
+          27 28 22 19
+        </collisionBones>
+      </Item>
+      <Item>
+        <Type>Attack</Type>
+        <Bvhfile>02_05</Bvhfile>
+        <WorldMX> 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</WorldMX>
+        <Name>punch2</Name>
+        <StartFrame>1089</StartFrame>
+        <EndFrame>1281</EndFrame>
+        <IsCyclic>false</IsCyclic>
+        <FramesPerLoop>8</FramesPerLoop>
+        <Skills>
+        </Skills>
+        <attackDrcs>
+          <Item>
+            <Key>1198</Key>
+            <Value>0.03276832 0.1823078 0.9826953</Value>
+          </Item>
+          <Item>
+            <Key>1199</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1200</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1201</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1202</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1203</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1204</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1205</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1206</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1207</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1208</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1209</Key>
+            <Value>0.09948664 0.08323669 0.9915513</Value>
+          </Item>
+          <Item>
+            <Key>1210</Key>
+            <Value>0.1973184 0.116402 0.9734043</Value>
+          </Item>
+          <Item>
+            <Key>1211</Key>
+            <Value>0.1973184 0.116402 0.9734043</Value>
+          </Item>
+          <Item>
+            <Key>1212</Key>
+            <Value>0.1973184 0.116402 0.9734043</Value>
+          </Item>
+          <Item>
+            <Key>1213</Key>
+            <Value>0.1973184 0.116402 0.9734043</Value>
+          </Item>
+        </attackDrcs>
+        <collisionBones>
+          22 19 27
+        </collisionBones>
+      </Item>
+    </attack>
+  </Asset>
+</XnaContent>

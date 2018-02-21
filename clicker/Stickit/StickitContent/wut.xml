@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlLib.ActionCollection">
+    <rootMovements>
+      <Item>KeepOnlyY</Item>
+    </rootMovements>
+    <other></other>
+    <defense></defense>
+    <damaged></damaged>
+    <attack></attack>
+  </Asset>
+</XnaContent>

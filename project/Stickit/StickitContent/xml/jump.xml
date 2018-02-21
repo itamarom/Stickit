@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlLib.ActionCollection">
+    <rootMovements>
+      <Item>ZeroRootXZ</Item>
+      <Item>SetYOfRootAsFirstFrame</Item>
+    </rootMovements>
+    <other>
+      <Item>
+        <Type>Other</Type>
+        <Bvhfile>jump</Bvhfile>
+        <WorldMX> 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</WorldMX>
+        <Name>jump</Name>
+        <StartFrame>0</StartFrame>
+        <EndFrame>80</EndFrame>
+        <IsCyclic>false</IsCyclic>
+        <FramesPerLoop>1</FramesPerLoop>
+        <Skills>
+        </Skills>
+      </Item>
+    </other>
+    <defense></defense>
+    <damaged></damaged>
+    <attack></attack>
+  </Asset>
+</XnaContent>

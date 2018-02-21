@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlLib.ActionCollection">
+    <rootMovements>
+      <Item>
+        KeepOnlyY
+      </Item>
+    </rootMovements>
+    <other>
+      <Item>
+        <Type>Other</Type>
+        <Bvhfile>02_03</Bvhfile>
+        <WorldMX> 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</WorldMX>
+        <Name>walk</Name>
+        <StartFrame>49</StartFrame>
+        <EndFrame>136</EndFrame>
+        <IsCyclic>true</IsCyclic>
+        <FramesPerLoop>2</FramesPerLoop>
+        <Skills>
+        </Skills>
+      </Item>
+    </other>
+    <defense></defense>
+    <damaged></damaged>
+    <attack></attack>
+  </Asset>
+</XnaContent>
